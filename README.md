@@ -31,10 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/snowjs08/snowjs08/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media.tenor.com/FNcKC9I9TbwAAAAM/giselle-gewelle.gif"  />
