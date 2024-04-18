@@ -33,16 +33,18 @@
 
 <br clear="both">
 
+<p align="left">I'm a junior front end developer I'm studying I'm new to this field</p>
+
+###
+
+<br clear="both">
+
+<img align="left" src="https://profile-counter.glitch.me/snowjs08/count.svg?"  />
+
+###
+
+<br clear="both">
+
 <img align="right" height="150" src="https://media.tenor.com/FNcKC9I9TbwAAAAM/giselle-gewelle.gif"  />
-
-###
-
-<p align="right">I'm a junior front end developer I'm studying I'm new to this field</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/snowjs08/count.svg?"  />
-</div>
 
 ###
