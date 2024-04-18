@@ -44,7 +44,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/snowjs08/count.svg?"  />
 </div>
 
 ###
