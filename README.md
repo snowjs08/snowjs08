@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src="https://media.tenor.com/FNcKC9I9TbwAAAAM/giselle-gewelle.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm snow</h1>
 <h3 align="center">A frontend developer form brazil</h3>
 
