@@ -2,11 +2,11 @@
   <img height="200" src="https://media.tenor.com/FNcKC9I9TbwAAAAM/giselle-gewelle.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm snow</h1>
-<h3 align="center">A developer from brazil</h3>
+<h3 align="center">I'm a Brazilian programming student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowjs08&label=Profile%20views&color=0e75b6&style=flat" alt="snowjs08" /> </p>
 
-- 🌱 I’m currently learning **programming**
+- 🌱 I’m currently learning **java, python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
