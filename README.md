@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm snow</h1>
 <h3 align="center">programming student</h3>
 
-- 🌱 I’m currently learning **Frontend programming**
+- 🌱 I’m currently learning **Frontend**
 
 <h3 align="left">other stuff:</h3>
 <p align="left">
