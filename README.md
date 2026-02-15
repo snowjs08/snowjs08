@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/FNcKC9I9TbwAAAAM/giselle-gewelle.gif"  />
+  <img height="400" src="https://media.tenor.com/FNcKC9I9TbwAAAAM/giselle-gewelle.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm snow</h1>
